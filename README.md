@@ -1,2 +1,5 @@
 # Implementation-of-Hash-Table-Project
-Implementation of Hash Table Using 1.Separate Chaining Open addressing with linear probing Open addressing with quadratic probing
+Implementation of Hash Table Using 
+1.Separate Chaining 
+2.Open addressing with linear probing 
+3.Open addressing with quadratic probing
